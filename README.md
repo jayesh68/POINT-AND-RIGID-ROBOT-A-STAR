@@ -12,7 +12,7 @@
     - A* search will begin and print confirmation statement at the end
     - Animation will be shown in realtime during search process
     - After animation ends, backtracking visualization will be performed drawing optimal path
-    - Search will terminate by printing total computation time.
+    - Search will terminate by printing total computation time
 5. Close python interpreter when done.
 
 **Caution: If start nodes are created within 5 units of clearance edges, nodes might expand to
