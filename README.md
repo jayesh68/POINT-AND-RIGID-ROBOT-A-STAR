@@ -1,4 +1,4 @@
-# Path Planning for a Point Robot using A*
+# Path Planning for a Point and Rigid Robot using A*
 
 ## Steps to run the program
 1. Download python script into a given path/folder.
