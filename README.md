@@ -15,9 +15,7 @@
     - Search will terminate by printing total computation time
 5. Close python interpreter when done.
 
-**Caution: If start nodes are created within 5 units of clearance edges, nodes might expand to
-	   region inside edge clearance in which case if all 5 children get expanded into that space, 
-	   search will terminate abnormally with incorrect results.
+## **Caution: If start nodes are created within 5 units of clearance edges, nodes might expand to region inside edge clearance in which case if all 5 children get expanded into that space,search will terminate abnormally with incorrect results.
 
 ## Visualization
 * https://youtu.be/iS9h-2WOy6g
